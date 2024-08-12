@@ -20,8 +20,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/VisioGem.git
-   cd VisioGem
+   git clone https://github.com/yourusername/VisionBot.git
+   cd VisionBot
    ```
 
 2. **Set Up the Flask Server:**
@@ -35,7 +35,7 @@
    - Start the Flask server:
 
      ```bash
-     python app.py
+     python web_api.py
      ```
 
 3. **Configure ESP32-CAM:**
