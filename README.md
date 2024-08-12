@@ -51,7 +51,7 @@
 
 ## Potential Applications
 
-VisioGem can be used to assist visually impaired individuals by providing real-time descriptions of their environment, helping them navigate and understand their surroundings better.
+VisionBot can be used to assist visually impaired individuals by providing real-time descriptions of their environment, helping them navigate and understand their surroundings better.
 
 ## Contributing
 
